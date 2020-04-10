@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jamie McQuilkin"
   avatar           : "profile.jpg"
-  bio              : "trying to find out what's worth finding out. contributing to building and optimising environmental and social infrastructure."
+  bio              : "trying to find out what's worth finding out. building and optimising environmental and social infrastructure."
   location         : "Reykjavík"
   employer         :
   pubmed           : 
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
