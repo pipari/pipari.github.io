@@ -1,6 +1,6 @@
 ---
 title: "andrými"
-excerpt: "andrými is a radical social centre in Reykjavík.<br/><img src='/images/andrymi.jpg' =500x>"
+excerpt: "andrými is a radical social centre in Reykjavík.<br/><img src='/images/andrymi.jpg' width='500'>"
 collection: project
 ---
 
