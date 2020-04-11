@@ -1,6 +1,6 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+title: "andrými"
+excerpt: "andrými is a radical social centre in Reykjavík which I cofounded.<br/><img src='/images/andrymi.jpg'>"
 collection: project
 ---
 
