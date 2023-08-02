@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "píparinn: jamie mcquilkin"
 title_separator          : "-"
 name                     : &name "Jamie McQuilkin"
-description              : &description "just a description"
+description              : &description "jamie mcquilkin's personal website"
 url                      : https://pipari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pipari/pipari.github.io"
@@ -179,13 +179,13 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
